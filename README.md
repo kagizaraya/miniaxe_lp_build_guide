@@ -1,5 +1,7 @@
 # MiniAxe LP 組立説明書
 
+_The English version of the build guide is [here](README_en.md)._
+
 ## 組み立ての前に
 * はんだごてや工具、部品等でのケガに注意してください。
 * 作業中に席を離れるときは、はんだごての電源を確認してください。
