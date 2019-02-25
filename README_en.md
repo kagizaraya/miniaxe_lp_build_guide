@@ -36,7 +36,7 @@ Number | Name | Value | Qty | Remarks | Place
 17 | Rubber feet | | 10 |
 18 | USB cable | | 1 | Connect between left and right. |
 
-# Other required items
+## Other required items
 In order to complete the kit, the following parts must be prepared separately.
 
 * Key switch (Kailh low profile type(Red, Brown) only support. White(clicky) is not supported)
@@ -164,7 +164,7 @@ It is not necessary to press the reset switch to write the firmware for the firs
 Please refer to [this document](https://docs.qmk.fm/#/getting_started_build_tools) for building the environment for building firmware.
 
 ## Completed!
-Congratilation!
+Congratulation!
 
 ![Done](images/IMG_3159.jpg)
 
