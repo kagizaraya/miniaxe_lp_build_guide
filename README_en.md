@@ -59,6 +59,14 @@ In addition, you may also prepare the following as necessary.
 * Solder wick
 * Multimeter
 
+
+
+# Buid procedure
+
+For the soldered kit, proceed with building from the item [Verify that it is recognized as a USB device](#verify-that-it-is-recognized-as-a-usb-device).
+
+
+
 ## Solder MPUs
 1. Place the ● mark (pin 1 marking) on the MPU aligned with the ○ mark on the board.
 2. Make sure that all pins are on the pad and solder them.
