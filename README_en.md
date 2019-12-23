@@ -13,6 +13,10 @@ If you already have a clicky type (white axis) and you can install it without in
 ## Confirm contents
 The following parts are included in the kit. Please check whether there is any shortage before work.
 
+The soldered kit includes only the part number (13) and later, so please check.
+
+
+
 ![Contents of kit](images/IMG_3092.jpg)
 
 Number | Name | Value | Qty | Remarks | Place
@@ -134,6 +138,8 @@ Connect the keyboard to the computer and confirm that it is recognized as a USB 
 * For Windows, start "Device Manager" and check whether the device named "ATm32U4DFU" is visible.
 ![Device Manager](images/device-manager.png)
 
+* For the soldered kit, make sure that "MiniAxe" is visible on Mac or Windows.
+
 If it is not recognized as a USB device, please double check the schematic to see if all parts are properly soldered.
 
 ## Assemble the top plate
@@ -157,6 +163,8 @@ If it is not recognized as a USB device, please double check the schematic to se
 2. _Since the pin of the key switch is easy to bend, please make sure that it is straight. Also, be carefull as SW7 and SW8 are oriented opposite to the otherrs._)
 
 ## Write firmware
+__For the soldered kit, the default keymap firmware is already written.__
+
 The firmware uses QMK. Please clone the following repository.
 
 [qmk_firmware](https://github.com/qmk/qmk_firmware)
